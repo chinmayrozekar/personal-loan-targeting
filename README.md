@@ -42,7 +42,7 @@ AllLife Bank's prior campaign achieved ~9.5% conversion across the full base. A 
 Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter Notebook
 
 ## Code
-Notebook: [`Personal Loan Campaign.ipynb`](<Personal Loan Campaign.ipynb>)
+Notebook: [`Personal_Loan_Campaign.ipynb`](Personal_Loan_Campaign.ipynb)
 
 ---
 *Author: Chinmay Rozekar*
